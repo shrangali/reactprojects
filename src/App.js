@@ -5,7 +5,7 @@ import _ from 'lodash';
 export default class App extends Component {
     constructor() {
         super();
-        this.state = {};
+        this.state = {}
     }
 
     componentWillMount(){
